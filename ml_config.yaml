@@ -2,7 +2,7 @@ seed: 2023
 
 data:
   n_fold: 5
-  root: D:/HuaweiMoveData/Users/evanf/Desktop/HGIN/data
+  root: <absolute path>/HIC/data
   # <graph>
   # RG_macro, RG_sub
   # IMDBBINARY, IMDBMULTI, MUTAG, NCI1, PROTEINS
