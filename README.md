@@ -1,6 +1,6 @@
 # Hypergraph Isomorphism Computation
 
-This repository contains the code for the paper "Hypergraph Isomorphism Computation (IEEE TPAMI 2024)" by Yifan Feng, Jiashu Han, Shihui Ying, and Yue Gao*. The paper is available at [here](https://ieeexplore.ieee.org/abstract/document/10398457/).
+This repository contains the code for the paper "Hypergraph Isomorphism Computation (IEEE TPAMI 2024)" by [Yifan Feng](https://fengyifan.site/), Jiashu Han, Shihui Ying, and Yue Gao*. The paper is available at [here](https://ieeexplore.ieee.org/abstract/document/10398457/).
 
 ![algorithm](doc/alg.svg)
 
